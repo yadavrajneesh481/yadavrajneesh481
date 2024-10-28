@@ -1,6 +1,8 @@
 # 💫 About Me:
 <br>💻 Rajneesh Yadav<br>🎓 MERN Stack Developer | Full-Stack Enthusiast | Cybersecurity Aficionado<br><br>
-🌐 Portfolio:https://yadavrajneesh.netlify.app/<br><br>🛠️ Skills & Technologies<br>Programming Languages: Python 🐍 | C | C++<br>Frontend: React.js ⚛️ | JavaScript ✨ | HTML5 🌐 | CSS3 🎨 | Bootstrap | Tailwind CSS<br>Backend: Node.js 🌲 | Express.js 🚀 | PHP<br>Databases: MongoDB 🍃 | MySQL 📊 | Oracle<br>Tools & Hosting: Git/GitHub 🐙 | Postman | Netlify | Vercel<br>br>🏆 Achievements & Certifications<br>Conducted a 14-Day MERN Stack Bootcamp 🏋️‍♂️, guiding students to build and deploy 10 full-stack projects.<br>Certified MERN Developer by 100xdevs 🏅<br>Problem Solving Certifications from HackerRank 🛠️<br>💬 Feel free to connect or collaborate! I love working on React, AI, and cybersecurity projects. Let's build something cool together! 🚀<br><br>
+🌐 Portfolio:https://yadavrajneesh.netlify.app/<br>
+<br>🛠️ Skills & Technologies<br>Programming Languages: Python 🐍 | C | C++<br>Frontend: React.js ⚛️ | JavaScript ✨ | HTML5 🌐 | CSS3 🎨 | Bootstrap | Tailwind CSS<br>Backend: Node.js 🌲 | Express.js 🚀 | PHP<br>Databases: MongoDB 🍃 | MySQL 📊 | Oracle<br>Tools & Hosting: Git/GitHub 🐙 | Postman | Netlify | Vercel<br>
+<br>🏆 Achievements & Certifications<br>Conducted a 14-Day MERN Stack Bootcamp 🏋️‍♂️, guiding students to build and deploy 10 full-stack projects.<br>Certified MERN Developer by 100xdevs 🏅<br>Problem Solving Certifications from HackerRank 🛠️<br>💬 Feel free to connect or collaborate! I love working on React, AI, and cybersecurity projects. Let's build something cool together! 🚀<br><br>
 
 
 # 💻 Tech Stack:
